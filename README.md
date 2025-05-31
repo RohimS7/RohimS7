@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about web programming and design
 - 📫 How to reach me: ...
-- 😄 Pronouns: himsdev
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: eat a lot but don't get fat
 
 ### My skills
