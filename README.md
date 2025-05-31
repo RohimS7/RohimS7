@@ -1,7 +1,7 @@
 <!-- ## Hello everyone 👋
 ##### I'm Abdur Rohim 🙏😁 -->
 
-![Header](./img/github-header-image.png)
+![Header](./img/banner.png)
 
 <!-- **RohimS7/RohimS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
