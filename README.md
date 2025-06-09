@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RohimS7/RohimS7/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/RohimS7/RohimS7/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
